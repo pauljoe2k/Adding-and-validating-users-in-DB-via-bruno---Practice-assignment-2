@@ -4,7 +4,7 @@ In this assignment, you are tasked with creating a login endpoint for a social m
 - make sure that both of them are not empty.
 - using mail check if the user is already existed or not else res with error.
 - If user exists comporate the stored password with entered password using bcrypt package.
-- send the responce according to the result of compare.
+- send the response according to the result of compare.
 
 
 # **How to Fork and Set Up Your Repository**
